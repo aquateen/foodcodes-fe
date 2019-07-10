@@ -1,0 +1,19 @@
+.PromoItem {
+  margin-bottom: 10px;
+  display: flex;
+  & figure {
+    align-self: flex-start;
+    margin-right: 10px;
+    min-width: 64px;
+  }
+  &__text {
+    flex: 1 1 auto;
+  }
+}
+
+.image.is-64x64 {
+  & img {
+    background-color: black;
+    border-radius: 5px;
+  }
+}
