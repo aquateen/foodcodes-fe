@@ -7,7 +7,7 @@ function Header() {
       <div className="container">
         <Link to="/">
           <h1 className="title is-1 has-text-centered has-text-white has-text-weight-bold">
-            FOOD CODES
+            NOM CODES
           </h1>
         </Link>
         <h2 className="subtitle is-4 has-text-centered has-text-white">
