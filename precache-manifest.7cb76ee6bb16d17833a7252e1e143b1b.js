@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8524841ae2e6add3d71e2aba42035813",
+    "revision": "efd096bba1349b2ecd4782196ff31757",
     "url": "/foodcodes-fe/index.html"
   },
   {
-    "revision": "20ea672add17c6578090",
+    "revision": "d3dfdb3706dd90e5fb44",
     "url": "/foodcodes-fe/static/css/main.a2c531ac.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodcodes-fe/static/js/2.ab4009e2.chunk.js"
   },
   {
-    "revision": "20ea672add17c6578090",
-    "url": "/foodcodes-fe/static/js/main.a09ca970.chunk.js"
+    "revision": "d3dfdb3706dd90e5fb44",
+    "url": "/foodcodes-fe/static/js/main.a4bcf7dc.chunk.js"
   },
   {
     "revision": "51d620d2d137d2fd4f6d",

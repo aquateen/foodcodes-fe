@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/foodcodes-fe/static/css/main.a2c531ac.chunk.css",
-    "main.js": "/foodcodes-fe/static/js/main.a09ca970.chunk.js",
-    "main.js.map": "/foodcodes-fe/static/js/main.a09ca970.chunk.js.map",
+    "main.js": "/foodcodes-fe/static/js/main.a4bcf7dc.chunk.js",
+    "main.js.map": "/foodcodes-fe/static/js/main.a4bcf7dc.chunk.js.map",
     "runtime~main.js": "/foodcodes-fe/static/js/runtime~main.9b3ab433.js",
     "runtime~main.js.map": "/foodcodes-fe/static/js/runtime~main.9b3ab433.js.map",
     "static/js/2.ab4009e2.chunk.js": "/foodcodes-fe/static/js/2.ab4009e2.chunk.js",
     "static/js/2.ab4009e2.chunk.js.map": "/foodcodes-fe/static/js/2.ab4009e2.chunk.js.map",
     "index.html": "/foodcodes-fe/index.html",
-    "precache-manifest.51449cc7838750c4dda007ec18269433.js": "/foodcodes-fe/precache-manifest.51449cc7838750c4dda007ec18269433.js",
+    "precache-manifest.7cb76ee6bb16d17833a7252e1e143b1b.js": "/foodcodes-fe/precache-manifest.7cb76ee6bb16d17833a7252e1e143b1b.js",
     "service-worker.js": "/foodcodes-fe/service-worker.js",
     "static/css/main.a2c531ac.chunk.css.map": "/foodcodes-fe/static/css/main.a2c531ac.chunk.css.map",
     "static/media/App.scss": "/foodcodes-fe/static/media/food.60f9bc87.jpg",
