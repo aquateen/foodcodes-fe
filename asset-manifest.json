@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/foodcodes-fe/static/css/main.a2c531ac.chunk.css",
-    "main.js": "/foodcodes-fe/static/js/main.a4bcf7dc.chunk.js",
-    "main.js.map": "/foodcodes-fe/static/js/main.a4bcf7dc.chunk.js.map",
-    "runtime~main.js": "/foodcodes-fe/static/js/runtime~main.9b3ab433.js",
-    "runtime~main.js.map": "/foodcodes-fe/static/js/runtime~main.9b3ab433.js.map",
-    "static/js/2.ab4009e2.chunk.js": "/foodcodes-fe/static/js/2.ab4009e2.chunk.js",
-    "static/js/2.ab4009e2.chunk.js.map": "/foodcodes-fe/static/js/2.ab4009e2.chunk.js.map",
-    "index.html": "/foodcodes-fe/index.html",
-    "precache-manifest.7cb76ee6bb16d17833a7252e1e143b1b.js": "/foodcodes-fe/precache-manifest.7cb76ee6bb16d17833a7252e1e143b1b.js",
-    "service-worker.js": "/foodcodes-fe/service-worker.js",
-    "static/css/main.a2c531ac.chunk.css.map": "/foodcodes-fe/static/css/main.a2c531ac.chunk.css.map",
-    "static/media/App.scss": "/foodcodes-fe/static/media/food.60f9bc87.jpg",
-    "static/media/postmates.png": "/foodcodes-fe/static/media/postmates.544666ce.png"
+    "main.css": "/static/css/main.f1ebcc57.chunk.css",
+    "main.js": "/static/js/main.2858972f.chunk.js",
+    "main.js.map": "/static/js/main.2858972f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.ab4009e2.chunk.js": "/static/js/2.ab4009e2.chunk.js",
+    "static/js/2.ab4009e2.chunk.js.map": "/static/js/2.ab4009e2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ce52a7fa7d3ecbc08241dbd4af2faede.js": "/precache-manifest.ce52a7fa7d3ecbc08241dbd4af2faede.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f1ebcc57.chunk.css.map": "/static/css/main.f1ebcc57.chunk.css.map",
+    "static/media/App.scss": "/static/media/food.60f9bc87.jpg",
+    "static/media/postmates.png": "/static/media/postmates.544666ce.png"
   }
 }
