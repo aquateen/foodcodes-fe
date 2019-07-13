@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import PromoItem from './PromoItem';
+import loadingGif from './loading.gif';
 
 function PromoSection() {
   const [promos, setPromos] = React.useState();
@@ -26,7 +27,10 @@ function PromoSection() {
               <p>Sorry, no activate promos right now!</p>
               )
           ) : (
-            <p>Loading...</p>
+            <div className="has-text-centered">
+              <p className="title is-italic is-size-6">Loading promos...</p>
+              <img src={loadingGif} alt="loading" />
+            </div>
           )}
       </div>
     </div>
