@@ -2,8 +2,8 @@ import React from 'react';
 import PromoItem from './PromoItem';
 
 function NewUserSection() {
-  const postmates_signup = "Use code s3cit when signing up!"
-  const ubereats_signup = "Use code eats-hgm1r when signing up!"
+  const postmates_signup = "Use code s3cit on your first order!"
+  const ubereats_signup = "Use code eats-hgm1r on your first order!"
 
   return (
     <div className="column is-one-quarter">
