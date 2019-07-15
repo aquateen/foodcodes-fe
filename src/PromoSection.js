@@ -22,7 +22,7 @@ function PromoSection() {
           {promos ? (
             promos.length ? (
               promos.map((promo, index) => (
-                <PromoItem service={promo.service} code={promo.code} key={index} />
+                <PromoItem service={promo.service} code={promo.code} added={promo.added_on} key={index} />
               ))) : (
               <p>Sorry, no activate promos right now!</p>
               )

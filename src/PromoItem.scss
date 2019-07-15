@@ -9,6 +9,15 @@
   &__text {
     flex: 1 1 auto;
   }
+  .added {
+    margin-top: auto;
+  }
+}
+
+.ItemText {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
 }
 
 .image.is-64x64 {
